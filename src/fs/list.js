@@ -25,7 +25,6 @@ const list = async () => {
     } catch(err){
         console.log(err);
     }
-    // Write your code here 
 };
 
 await list();
